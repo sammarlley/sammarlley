@@ -15,6 +15,7 @@ I'm a full-stack mid-level developer passionate about solving challenges with te
 - [LinkedIn](https://www.linkedin.com/in/samuel-marley/)
 - [Medium](https://medium.com/@rafaelalexandrino)
 
+<!-- Replace the following URLs with the correct ones -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sammarlley&theme=radical&mode=weekly)
 ![Top Languages](https://github-readme-stats-git-main-sammarlley.vercel.app/api/top-langs/?username=sammarlley&show_icons=true&theme=radical&layout=compact)
 
