@@ -1,4 +1,4 @@
-<img src="https://github.com/sammarlley/sammarlley/blob/master/IMAGE-NAME">
+<img src="https://github.com/sammarlley/sammarlley/blob/master/(https://cdn.maemequer.pt/wp-content/uploads/2015/08/S1.jpg)">
 
 ### Olá! 👋
 - 🔭 Atualmente, estou Cursando ADS (além disso, estou aprimorando regularmente minhas habilidades).
