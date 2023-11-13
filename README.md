@@ -1,10 +1,6 @@
  ## Olá! 👋
  Atualmente, estou cursando graduação em Análise e Desenvolvimento de Sistemas.
   
- 🔭-"Além disso, estou constantemente aprimorando minhas habilidades em estruturas de dados e algoritmos."
- 🌱-"Atualmente, estou focado em aprofundar meus conhecimentos em bancos de dados."
- 🤝-"Tenho o objetivo de atuar como desenvolvedor no futuro e estou em busca de oportunidades para alcançar esse objetivo."
-  
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sammarlley&show_icons=true&theme=radical)
 
   ## Competências
