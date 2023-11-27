@@ -1,5 +1,4 @@
- ## Olá! 👋
- Atualmente, estou cursando graduação em Análise e Desenvolvimento de Sistemas.
+ ## oi! 👋
   
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sammarlley&show_icons=true&theme=radical)
 
